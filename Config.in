@@ -1,0 +1,4 @@
+config BR2_PACKAGE_UIO_DMEM_GENIRQ
+	bool "UIO driver with dynamic memory allocator"
+	help
+	  Linux Kernel Module for UIO driver with dynamic memory.
